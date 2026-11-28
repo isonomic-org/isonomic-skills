@@ -23,7 +23,8 @@ format, scan, adaptation, review, evaluation and pin.
 
 ## Licence
 
-Isonomic's own content is licensed under the Apache License 2.0. See
+Isonomic's own content is licensed under the GNU General Public License,
+version 3 or later. See
 [LICENSE](LICENSE). Each imported skill keeps its own licence, in the licence
 file inside that skill's folder.
 
